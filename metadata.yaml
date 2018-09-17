@@ -1,0 +1,37 @@
+_repo: Ants-and-Some-Other-Insects-An-Inquiry-Into-the-Psychic-Powers-of-These-Animals_52134
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Wheeler, William Morton
+    birthdate: 1865
+    deathdate: 1937
+    gutenberg_agent_id: '46693'
+    url: http://www.gutenberg.org/2009/agents/46693
+creator:
+  author:
+    agent_name: Forel, Auguste
+    aliases:
+    - Forel, Auguste Henri
+    - Forel, A. (Auguste)
+    - Forel, August
+    birthdate: 1848
+    deathdate: 1931
+    gutenberg_agent_id: '34240'
+    url: http://www.gutenberg.org/2009/agents/34240
+description: ''
+gutenberg_issued: '2016-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52134'
+  lccn: '04021575'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Insects -- Biology'
+- !lcsh 'Psychology, Comparative'
+- !lcc 'QL'
+- GITenberg
+title: 'Ants and Some Other Insects: An Inquiry Into the Psychic Powers of These Animals'
+url: http://www.gutenberg.org/ebooks/52134
